@@ -9,7 +9,7 @@ This project makes uses of:
 
 ## 👻 Live Site URL & Status 👺
 
-[https://faq-collapse-html.netlify.app/](https://faq-collapse-html.netlify.app/)
+[https://beer-faq-collapse.netlify.app/](https://beer-faq-collapse.netlify.app/)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e6d2112e-e16e-4c3f-ad0f-04a2d35e9596/deploy-status)](https://app.netlify.com/sites/faq-collapse-html/deploys)
 
